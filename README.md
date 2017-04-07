@@ -97,6 +97,73 @@ Number of fuzzy matching vendor address: 29
 Finally, number of distinct vendors found: 52078
 
 
+YEAR 2012
+
+Number of vendor records in contracts full file is: 3124491
+
+Number of unique DUNS numbers in contracts full file is: 59679
+
+Number of exact matching vendor names: 946
+
+Number of exact matching vendor address: 53
+
+Number of fuzzy matching vendor names: 732
+
+Number of fuzzy matching vendor address: 24
+
+Finally, number of distinct vendors found: 57924
+
+
+YEAR 2011
+
+Number of vendor records in contracts full file is: 3404589
+
+Number of unique DUNS numbers in contracts full file is: 62939
+
+Number of exact matching vendor names: 1073
+
+Number of exact matching vendor address: 55
+
+Number of fuzzy matching vendor names: 841
+
+Number of fuzzy matching vendor address: 20
+
+Finally, number of distinct vendors found: 60950
+
+YEAR 2010
+
+Number of vendor records in contracts full file is: 3541148
+
+Number of unique DUNS numbers in contracts full file is: 66412
+
+Number of exact matching vendor names: 1045
+
+Number of exact matching vendor address: 50
+
+Number of fuzzy matching vendor names: 919
+
+Number of fuzzy matching vendor address: 11
+
+Finally, number of distinct vendors found: 64387
+
+YEAR ALL
+
+Number of vendor records in contracts full file is: 24266117
+
+Number of unique DUNS numbers in contracts full file is: 85462
+
+Number of exact matching vendor names: 1209
+
+Number of exact matching vendor address: 42
+
+Number of fuzzy matching vendor names: 1172
+
+Number of fuzzy matching vendor address: 36
+
+Finally, number of distinct vendors found: 83003
+
+
+
 
 
 
