@@ -28,3 +28,76 @@ Once distinct suppliers are determined, it can help us to perform supplier trend
 
 
 4.	Summary of findings
+
+YEAR 2016
+
+Number of vendor records in contracts full file is: 4802211
+
+Number of unique DUNS numbers in contracts full file is: 50394
+
+Number of exact matching vendor names: 659
+
+Number of exact matching vendor address: 59
+
+Number of fuzzy matching vendor names: 489
+
+Number of fuzzy matching vendor address: 10
+
+Finally, number of distinct vendors found: 49177
+
+
+YEAR 2015
+
+Number of vendor records in contracts full file is: 4357218
+
+Number of unique DUNS numbers in contracts full file is: 50290
+
+Number of exact matching vendor names: 736
+
+Number of exact matching vendor address: 32
+
+Number of fuzzy matching vendor names: 455
+
+Number of fuzzy matching vendor address: 23
+
+Finally, number of distinct vendors found: 49044
+
+
+YEAR 2014
+
+Number of vendor records in contracts full file is: 2523974
+
+Number of unique DUNS numbers in contracts full file is: 51841
+
+Number of exact matching vendor names: 739
+
+Number of exact matching vendor address: 40
+
+Number of fuzzy matching vendor names: 543
+
+Number of fuzzy matching vendor address: 19
+
+Finally, number of distinct vendors found: 50500
+
+
+YEAR 2013
+
+Number of vendor records in contracts full file is: 2512486
+
+Number of unique DUNS numbers in contracts full file is: 53632
+
+Number of exact matching vendor names: 872
+
+Number of exact matching vendor address: 56
+
+Number of fuzzy matching vendor names: 597
+
+Number of fuzzy matching vendor address: 29
+
+Finally, number of distinct vendors found: 52078
+
+
+
+
+
+
